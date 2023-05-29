@@ -1,0 +1,10 @@
+Authentication
+       Authentication is a strategy used in computer science
+ to limit access to an application to a group of verified 
+individuals. 
+Users are verified based on the credentials provided 
+before granting the user access to the program.
+For creating Authentication
+        1.constructor(form, fields) { this. form = form; this. ...
+2.// create a variable for the login form const form = document. ...
+3.const auth = new Auth(); document.   
